@@ -14,7 +14,7 @@ in the jupyter notebook attached. This architecture, has about 90% accuracy obta
 
 <img src="https://github.com/augustodn/pytorch_FashionMNIST/blob/master/img/2layersCNN.png" width="800">
 
-#Labels
+# Labels
 Each training and test example is assigned to one of the following labels:
 
 0 T-shirt/top
@@ -28,7 +28,7 @@ Each training and test example is assigned to one of the following labels:
 8 Bag
 9 Ankle boot
 
-#Libraries Used
+# Libraries Used
 - Pytorch
 - Numpy
 - Matplotlib
